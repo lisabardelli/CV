@@ -1,6 +1,6 @@
 ## Lisa Bardelli
 
-After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently applied for [Makers Academy](https://makers.tech/),a highly selective intensive develompment bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
+After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently applied for [Makers Academy](https://makers.tech/), a highly selective intensive develompment bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
 
 
 ## Skills
@@ -76,7 +76,7 @@ _Marketing & CRM Asset Management Analyst_
 
 Performing financial and market analysis and analyzing the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.
 
-**[Accenture](https://www.accenture.com/), Milan (ITA)** (September 2019 to October 2020)
+**[Accenture](https://www.accenture.com/), Milan (ITA)** (February 2016 to May 2016)
 _Capital Markets - Wealth & Asset Management Intern_ 
 
 Definition and the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.
