@@ -24,6 +24,9 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 - Python
 - SQL (MySQL)
 - Tableau Software
+- Javascript
+- HTML
+- CSS
 
 
 ## Education
@@ -34,6 +37,9 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 - TDD
 - Ruby
 - Pair programming
+- Javascipt
+- HTML
+- CSS
 
 **[Step Function](https://makers.tech/), London (UK)**(December 2020)
 
