@@ -18,6 +18,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 
 ## Skillset
+### Languages ###
 
 | Tech          | Languages, Frameworks & Libraries |
 | ------------- | --------------------------------- |
@@ -33,11 +34,14 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 | pandas        | Python Library                    |
 | NumPy         | Python Library                    |
 
+### Testing ###
 
 | Tech          | Testing             |
 | ------------- | ------------------- |
 | Jasmine       | Testing Framework   |
 | RSpec         | Testing Framework   |
+
+### Databases ###
 
 | Tech          | Databases            |
 | ------------- | -------------------- |
@@ -46,6 +50,8 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 | Active Record | ORM                  |
 | MongoDB       | Document-Oriented DB |
 | Mongoose      | ODM                  |
+
+### Linting ###
 
 | Tech          | Linting       |
 | ------------- | ------------- |
