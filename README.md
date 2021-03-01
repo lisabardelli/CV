@@ -18,20 +18,56 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 
 ## Skillset
-- Ruby
-- TDD
-- Pair programming
-- Python
-- SQL (MySQL)
-- Tableau Software
-- Javascript
-- HTML
-- CSS
+
+| Tech          | Languages, Frameworks & Libraries |
+| ------------- | --------------------------------- |
+| Javascript    | Language                          |
+| Ruby          | Language                          |
+| Sinatra       | Web Application Library           |
+| Ruby on Rails | Web Application Framework         |
+| Express       | Web Application Framework         |
+| ReactJS       | Frontend Library                  |
+| Node          | Back-end Env                      |
+| HTML/CSS      | Styling                           | 
+| Python        | Language                          |
+| pandas        | Python Library                    |
+| NumPy         | Python Library                    |
+
+
+| Tech          | Testing             |
+| ------------- | ------------------- |
+| Jasmine       | Testing Framework   |
+| RSpec         | Testing Framework   |
+
+| Tech          | Databases            |
+| ------------- | -------------------- |
+| SQL           | RDBMS                |
+| Postgres      | Object-Relational DB |
+| Active Record | ORM                  |
+| MongoDB       | Document-Oriented DB |
+| Mongoose      | ODM                  |
+
+| Tech          | Linting       |
+| ------------- | ------------- |
+| ESLint        | Linting       |
+| Rubocop       | Linting       |
+
+
+
+## Projects
+
+| Name                          | Description                                           | Tech used         |
+| ------------------------------| ----------------------------------------------------- | ----------------- |
+| **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where user can look for recipes, filter by ingredients and listening to music| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
+| **[Acebook](https://github.com/lisabardelli/acebook-on-the-rails.git)** | A social media platform where users can post messages, delete a post or like it | Javascript, Ruby on Rails, React, PostgreSQL |
+| **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec, TDD |
+| **[Notes App](https://github.com/lisabardelli/Notes-app.git)** | Front-end app where users can make notes | Javascript |
+| **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news summary single web page app built in JavaScript | Javascript, API, TDD |
 
 
 ## Education
 
-**[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to present)
+**[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)
 
 **_Highly Selective Intensive Develompment Bootcamp_**
 - TDD
