@@ -76,10 +76,11 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 **[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)
 
 **_Highly Selective Intensive Develompment Bootcamp_**
-- TDD
-- Ruby
-- Pair programming
-- Javascipt
+
+- TDD (RSpec, Jasmine)
+- Ruby , Sinatra, Ruby on Rails 
+- Javacript, ReactJS, Express, Node
+- Database Management (SQL, Postgres, Active Record, MongoDB, Mongoose )
 - HTML
 - CSS
 
