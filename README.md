@@ -1,6 +1,6 @@
 ## Lisa Bardelli
 
-After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently applied for [Makers Academy](https://makers.tech/), a highly selective intensive develompment bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
+After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently applied for [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
 
 
 ## Skills
@@ -75,7 +75,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 **[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)
 
-**_Highly Selective Intensive Develompment Bootcamp_**
+**_Highly Selective Intensive Development Bootcamp_**
 
 - TDD (RSpec, Jasmine)
 - Ruby , Sinatra, Ruby on Rails 
