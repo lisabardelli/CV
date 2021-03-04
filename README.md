@@ -2,7 +2,7 @@
 ***
 [SKILLS](#skills) | [TECH SKILS](#techskills) |[PORTFOLIO](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) |
 
-After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently graduated at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
+After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack Developer.
 
 ***
 ### <a name="skills">SKILLS</a>
@@ -78,23 +78,23 @@ Actuarial and Financial Mathematical Methods, Business administration I & II, Ec
 ***
 ### <a name="experience">EXPERIENCE</a>
 
-**[OpenTable - Kayak](https://www.opentable.co.uk/) - Kayak - London (UK)** - (September 2019 to October 2020)<br>
+**[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak - London (UK)** - (September 2019 to October 2020)<br>
 **AR & Collection Analyst EMEA**<br>
 Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
 
-**[Booking.com B.V.](https://www.booking.com/) - Amsterdam (NLD)** - (May 2018 to November 2018)<br>
+**[Booking.com B.V.](https://www.booking.com/) Amsterdam (NLD)** - (May 2018 to November 2018)<br>
 **Credit Controller**<br>
 Managing a portfolio of 20k accounts and redesigning the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
 
-**[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/) - The Hague (NLD)** - (November 2017 to April 2018)<br>
+**[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/) The Hague (NLD)** - (November 2017 to April 2018)<br>
 **Budget & Finance Analyst Trainee**<br>
 Financial planning and control of the Inspectorate Division Budget and responsible for reviewing and analyzing the cash outflows of the Inspectorate Division. Compilation of the monthly accounting reports for the Finance Director, which are consolidated in the organization’s cash flow statement.
 
-**[Anima SGR](https://www.animasgr.it/EN/Pages/default.aspx) - Milan (ITA)** -  (December 2016 to June 2017)<br>
+**[Anima SGR](https://www.animasgr.it/EN/Pages/default.aspx) Milan (ITA)** -  (December 2016 to June 2017)<br>
 **Marketing & CRM Asset Management Analyst**  <br>
 Performing financial and market analysis and analyzing the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.
 
-**[Accenture](https://www.accenture.com/) - Milan (ITA)** - (February 2016 to May 2016)<br>
+**[Accenture](https://www.accenture.com/) Milan (ITA)** - (February 2016 to May 2016)<br>
 **Capital Markets - Wealth & Asset Management Intern** <br>
 Definition and the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.
 
