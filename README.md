@@ -1,7 +1,6 @@
 ## Lisa Bardelli
 ***
-[Skills](#skills) | [Portfolio](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](https://www.lukecartledge.com)
+[SKILLS](#skills) | [TECH SKILS](#techskills) |[PORTFOLIO](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) |
 
 After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have recently graduated at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I am currently enrolled in the Makers Bootcamp (November 2020 cohort) and I look forward to joining an innovative company as a Full-Stack Developer.
 
@@ -20,39 +19,18 @@ In the last 3 years, I had the opportunity to change country three times and con
 Having to deal with stakeholders in the hospitaly industry brought me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations. I have been able to learn how to speak the stakeholder's language and avoid miscommunication. Then, this customer-centricity skillset helps me quickly understand the business requirements and translate them into clean, tested and reusable code.
 
 ***
-## TTECH SKILLSET
-### Languages ###
+### <a name="techskills">TECH SKILLS</a>
 
-| Tech          | Languages, Frameworks & Libraries |
-| ------------- | --------------------------------- |
-| Javascript    | Language                          |
-| Ruby          | Language                          |
-| Sinatra       | Web Application Library           |
-| Ruby on Rails | Web Application Framework         |
-| Express       | Web Application Framework         |
-| ReactJS       | Frontend Library                  |
-| Node          | Back-end Env                      |
-| HTML/CSS      | Styling                           | 
-| Python        | Language                          |
-| pandas        | Python Library                    |
-| NumPy         | Python Library                    |
+|  Description| Tech|
+|-----------|----------|
+| Language | Ruby, Javascript|
+| Web Application Library/Framework | Sinatra, Ruby on Rails, Express|
+| Database | SQL, Postgres, Active Record, MongoDB, Mongoose |
+| Testing Framework  | RSpec, Jasmine|
+| Front-end | ReactJS|
+| Back-end | Node|
+| Styling | HTML/CSS|
 
-### Testing ###
-
-| Tech          | Testing             |
-| ------------- | ------------------- |
-| Jasmine       | Testing Framework   |
-| RSpec         | Testing Framework   |
-
-### Databases ###
-
-| Tech          | Databases            |
-| ------------- | -------------------- |
-| SQL           | RDBMS                |
-| Postgres      | Object-Relational DB |
-| Active Record | ORM                  |
-| MongoDB       | Document-Oriented DB |
-| Mongoose      | ODM                  |
 
 
 
@@ -70,58 +48,53 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ***
 ### <a name="skills">EDUCATION</a>
 
-**[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)
-
-**_Highly Selective Intensive Coding Bootcamp_**
-
-- TDD (RSpec, Jasmine)
-- Ruby , Sinatra, Ruby on Rails 
-- Javacript, ReactJS, Express, Node
-- Database Management (SQL, Postgres, Active Record, MongoDB, Mongoose )
-- HTML
-- CSS
+**[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)<br>
+**Highly Selective Intensive Coding Bootcamp**<br>
+Independent learner and problem-solver<br>
+OOP, SOLID, MVC, DDD<br>
+Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way<br>
+Full stack web development<br>
+Curiosity and a hungry passion for code<br>
+Languages, Framework, Library, DBMS  I have learnt during the course please see [TECH SKILS](#techskills) 
 
 
-**[Step Function](https://makers.tech/), London (UK)**(December 2020)
+**[Step Function](https://makers.tech/), London (UK)**(December 2020)<br>
+**Data Analysis Intensive Course**<br>
+Python (pandas and NumPy)<br>
+SQL (MySQL)<br>
+Tableau Software<br>
 
-**_Data Analysis Intensive Course_**
-- Python (pandas and NumPy)
-- SQL (MySQL)
-- Tableau Software
+**[Catholic University of the Sacred Heart](https://www.ucsc.it/), Milan (ITA)**(September 2014 to September 2016)<br>
+**Business Management (MSc)**<br>
+Risk Management, Private Banking, Corporate Finance II & III, Derivatives, Corporate Strategy<br>
+(1st Class cum laude)<br>
 
-**[Catholic University of the Sacred Heart](https://www.ucsc.it/), Milan (ITA)**(September 2014 to September 2016)
-
-**_Business Management (MSc)_**
-- Risk Management, Private Banking, Corporate Finance II & III, Derivatives, Corporate Strategy
-- (1st Class cum laude)
-
-**[University of Florence](https://www.unifi.it/changelang-eng.html), Florence (ITA)**(September 2009 to July 2013)
-
-**_Business & Economics (BSc)_**
-- Actuarial and Financial Mathematical Methods, Business administration I & II, Economics and Management, Economic statistics
-- (2:1)
+**[University of Florence](https://www.unifi.it/changelang-eng.html), Florence (ITA)**(September 2009 to July 2013)<br>
+**Business & Economics (BSc)**<br>
+Actuarial and Financial Mathematical Methods, Business administration I & II, Economics and Management, Economic statistics<br>
+(2:1)<br>
 
 
 ***
 ### <a name="experience">EXPERIENCE</a>
 
-**OpenTable - Kayak - London (UK)** - (September 2019 to October 2020)<br>
+**[OpenTable - Kayak](https://www.opentable.co.uk/) - Kayak - London (UK)** - (September 2019 to October 2020)<br>
 **AR & Collection Analyst EMEA**<br>
 Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
 
-**Booking.com - Amsterdam (NLD)** - (May 2018 to November 2018)<br>
+**[Booking.com B.V.](https://www.booking.com/) - Amsterdam (NLD)** - (May 2018 to November 2018)<br>
 **Credit Controller**<br>
 Managing a portfolio of 20k accounts and redesigning the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
 
-**Organisation for the Prohibition of Chemical Weapons - The Hague (NLD)** - (November 2017 to April 2018)<br>
+**[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/) - The Hague (NLD)** - (November 2017 to April 2018)<br>
 **Budget & Finance Analyst Trainee**<br>
 Financial planning and control of the Inspectorate Division Budget and responsible for reviewing and analyzing the cash outflows of the Inspectorate Division. Compilation of the monthly accounting reports for the Finance Director, which are consolidated in the organization’s cash flow statement.
 
-**Anima SGR - Milan (ITA)** -  (December 2016 to June 2017)<br>
+**[Anima SGR](https://www.animasgr.it/EN/Pages/default.aspx) - Milan (ITA)** -  (December 2016 to June 2017)<br>
 **Marketing & CRM Asset Management Analyst**  <br>
 Performing financial and market analysis and analyzing the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.
 
-**Accenture - Milan (ITA)** - (February 2016 to May 2016)<br>
+**[Accenture](https://www.accenture.com/) - Milan (ITA)** - (February 2016 to May 2016)<br>
 **Capital Markets - Wealth & Asset Management Intern** <br>
 Definition and the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.
 
@@ -130,14 +103,10 @@ Definition and the execution of the IT strategy of a top-tier Italian retail ban
 
 ### <a name="interests">INTERESTS</a>
 
-- Cooking & Food
-- Ski
-- Tennis
-- Alfred Hitchcock's movies
-
-***
-### <a name="contact">CONTACT</a>
-- Github: [lisabardelli][1]
+Cooking & Food<br>
+Ski<br>
+Tennis<br>
+Alfred Hitchcock's movies<br>
 
 
 
