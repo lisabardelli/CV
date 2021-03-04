@@ -106,28 +106,23 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ### <a name="experience">EXPERIENCE</a>
 
 **OpenTable - Kayak* - London (UK)** - (September 2019 to October 2020)<br>
-**AR & Collection Analyst EMEA***
-
+**AR & Collection Analyst EMEA**<br>
 Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
 
 **Booking.com - Amsterdam (NLD)** - (May 2018 to November 2018)<br>
-**Credit Controller**
-
+**Credit Controller**<br>
 Managing a portfolio of 20k accounts and redesigning the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
 
 **Organisation for the Prohibition of Chemical Weapons - The Hague (NLD)** - (November 2017 to April 2018)<br>
-**Budget & Finance Analyst Trainee**
-
+**Budget & Finance Analyst Trainee**<br>
 Financial planning and control of the Inspectorate Division Budget and responsible for reviewing and analyzing the cash outflows of the Inspectorate Division. Compilation of the monthly accounting reports for the Finance Director, which are consolidated in the organization’s cash flow statement.
 
 **Anima SGR - Milan (ITA)** -  (December 2016 to June 2017)<br>
-**Marketing & CRM Asset Management Analyst**  
-
+**Marketing & CRM Asset Management Analyst**  <br>
 Performing financial and market analysis and analyzing the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.
 
 **Accenture - Milan (ITA)** - (February 2016 to May 2016)<br>
-**Capital Markets - Wealth & Asset Management Intern** 
-
+**Capital Markets - Wealth & Asset Management Intern** <br>
 Definition and the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.
 
 ***
