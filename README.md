@@ -1,11 +1,13 @@
 ## Lisa Bardelli
 ***
-[SKILLS](#skills) | [TECH SKILS](#techskills) |[PORTFOLIO](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) |
+[Skills](#skills) | [Tech Skills](#techskills) |[Projetcs](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+
+## About me
 
 After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack Developer.
 
 ***
-### <a name="skills">SKILLS</a>
+## <a name="skills">Skills</a>
 
 #### Initiative
 
@@ -19,7 +21,7 @@ In the last 3 years, I had the opportunity to change country three times and con
 Having to deal with stakeholders in the hospitaly industry brought me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations. I have been able to learn how to speak the stakeholder's language and avoid miscommunication. Then, this customer-centricity skillset helps me quickly understand the business requirements and translate them into clean, tested and reusable code.
 
 ***
-### <a name="techskills">TECH SKILLS</a>
+## <a name="techskills">Tech Skills</a>
 
 |  Description| Tech|
 |-----------|----------|
@@ -35,7 +37,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 
 ***
-### <a name="projects">PROJECTS</a>
+## <a name="projects">Projects</a>
 
 | Name                          | Description                                           | Tech used         |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
@@ -46,7 +48,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 | **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news summary single web page app built in JavaScript | Javascript, API, TDD |
 
 ***
-### <a name="skills">EDUCATION</a>
+## <a name="skills">Education</a>
 
 **[Makers Academy](https://makers.tech/), London (UK)** (November 2020 to February 2021)<br>
 **Highly Selective Intensive Coding Bootcamp**<br>
@@ -76,7 +78,7 @@ Actuarial and Financial Mathematical Methods, Business administration I & II, Ec
 
 
 ***
-### <a name="experience">EXPERIENCE</a>
+## <a name="experience">Experience</a>
 
 **[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak - London (UK)** - (September 2019 to October 2020)<br>
 **AR & Collection Analyst EMEA**<br>
@@ -101,7 +103,7 @@ Definition and the execution of the IT strategy of a top-tier Italian retail ban
 ***
 
 
-### <a name="interests">INTERESTS</a>
+## <a name="interests">Interests </a>
 
 Cooking & Food<br>
 Ski<br>
