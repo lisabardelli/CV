@@ -105,7 +105,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ***
 ### <a name="experience">EXPERIENCE</a>
 
-**OpenTable - Kayak* - London (UK)** - (September 2019 to October 2020)<br>
+**OpenTable - Kayak - London (UK)** - (September 2019 to October 2020)<br>
 **AR & Collection Analyst EMEA**<br>
 Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
 
