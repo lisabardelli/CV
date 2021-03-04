@@ -1,6 +1,6 @@
 ## Lisa Bardelli
 ***
-[Skills](#skills) | [Tech Skills](#techskills) |[Projetcs](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+[Skills](#skills) | [Tech Skills](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
 ## About me
 
