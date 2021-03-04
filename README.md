@@ -57,7 +57,7 @@ OOP, SOLID, MVC, DDD<br>
 Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way<br>
 Full stack web development<br>
 Curiosity and a hungry passion for code<br>
-Languages, Framework, Library, DBMS please see [TECH SKILS](#techskills) 
+Languages, Framework, Library, DBMS please see [Tech Skills](#techskills) 
 
 
 **[Step Function](https://makers.tech/), London (UK)**(December 2020)<br>
