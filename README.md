@@ -15,7 +15,7 @@ During the Covid-19 pandemic, I left my permanent job in a international company
 
 #### Roll-up-your-sleeves Attitude
 
-In the last 3 years, I had the opportunity to change country three times and consequently leave the job I was doing at the moment while I was beginning my work-life. Despite this, I have always rolled up my sleeves trying to understand the job market dynamics of a specif country and be able to found a new job in well-known company, such as [Booking.com B.V.](https://www.booking.com/) and [OpenTable - Kayak](https://www.opentable.co.uk/). That's why getting error messages and debug code do not discourage me, at all.
+In the last 3 years, I had the opportunity to change countries three times and consequently leave the job I was doing at the moment while I was beginning my work-life. Despite this, I have always rolled up my sleeves trying to understand the job market dynamics of a specif country and be able to found a new job in well-known company, such as [Booking.com B.V.](https://www.booking.com/) and [OpenTable - Kayak](https://www.opentable.co.uk/). That's why getting error messages and debug code do not discourage me, at all.
 #### Able to understand stakeholders' needs and expectations
 
 Having to deal with stakeholders in the hospitaly industry brought me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations. I have been able to learn how to speak the stakeholder's language and avoid miscommunication. Then, this customer-centricity skillset helps me quickly understand the business requirements and translate them into clean, tested and reusable code.
