@@ -81,7 +81,7 @@ Actuarial and Financial Mathematical Methods, Business administration I & II, Ec
 ## <a name="experience">Experience</a>
 
 **[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak, London (UK)** - (September 2019 to October 2020)<br>
-**AR & Collection Analyst EMEA**<br>
+**Collection Specialist EMEA**<br>
 Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
 
 **[Booking.com B.V.](https://www.booking.com/), Amsterdam (NLD)** - (May 2018 to November 2018)<br>
