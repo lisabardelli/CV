@@ -11,7 +11,7 @@ After attending BSc and MSc in Business and Finance and relevant work experience
 
 #### Initiative
 
-During the Covid-19 pandemic, I left my permanent job in a international company to follow my passion and start a new career. I must admit that, while I was taking this life-changing decision, I had to go trough a winding path because there are several factors you need to take into consideration such as going through uncertain times, constantly dealing with the question: "What is coming next?", budgeting the unemployment period and being open to the unexpected; however I realized that this was the challenge that I was ready to face and I took one big step in the right direction, because I am fully confident that this is what I want for my career.
+During the Covid-19 pandemic, I left my permanent job in a international company to follow my passion and start a new career. I must admit that, while I was taking this life-changing decision, I had to go through a winding path because there are several factors you need to take into consideration such as going through uncertain times, constantly dealing with the question: "What is coming next?", budgeting the unemployment period and being open to the unexpected; however I realized that this was the challenge that I was ready to face and I took one big step in the right direction, because I am fully confident that this is what I want for my career.
 
 #### Roll-up-your-sleeves Attitude
 
