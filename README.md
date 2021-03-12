@@ -53,7 +53,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 **[Makers Academy](https://makers.tech/), London (UK)** - (November 2020 to February 2021)<br>
 **Highly Selective Intensive Coding Bootcamp**<br>
 Independent learner and problem-solver<br>
-OOP, SOLID, MVC, DDD<br>
+TDD, OOP, MVC, DDD, REST API<br>
 Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way<br>
 Full stack web development<br>
 Curiosity and a hungry passion for code<br>
