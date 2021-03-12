@@ -41,7 +41,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 | Name                          | Description                                           | Tech used         |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where users can look for recipes, filter by ingredients and listen to music through integrated Spotify Playlists (| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
+| **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where users can look for recipes, filter by ingredients and listen to music through integrated Spotify Playlists| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
 | **[Acebook](https://github.com/lisabardelli/acebook-on-the-rails.git)** | A social media platform where users can post messages, delete a post or like it | Javascript, Ruby on Rails, React, PostgreSQL |
 | **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec, TDD |
 | **[Notes App](https://github.com/lisabardelli/Notes-app.git)** | Front-end app where users can make notes | Javascript |
