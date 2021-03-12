@@ -26,7 +26,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 |  Description| Tech|
 |-----------|----------|
 | Language | Ruby, Javascript|
-| Web Application Library/Framework | Sinatra, Ruby on Rails, Express|
+| Web Application Library/Framework | Sinatra, Rails, Express|
 | Database | SQL, Postgres, Active Record, MongoDB, Mongoose |
 | Testing Framework  | RSpec, Jasmine|
 | Front-end | ReactJS|
@@ -41,7 +41,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 
 | Name                          | Description                                           | Tech used         |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where user can look for recipes, filter by ingredients and listening to music| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
+| **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where users can look for recipes, filter by ingredients and listen to music through integrated Spotify Playlists (| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
 | **[Acebook](https://github.com/lisabardelli/acebook-on-the-rails.git)** | A social media platform where users can post messages, delete a post or like it | Javascript, Ruby on Rails, React, PostgreSQL |
 | **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec, TDD |
 | **[Notes App](https://github.com/lisabardelli/Notes-app.git)** | Front-end app where users can make notes | Javascript |
@@ -54,11 +54,12 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 **Highly Selective Intensive Coding Bootcamp**<br>
 Independent learner and problem-solver<br>
 TDD, OOP, MVC, DDD, REST API<br>
-Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way<br>
-Full stack web development<br>
 Curiosity and a hungry passion for code<br>
+Full stack web development<br>
+Builded 10+ web applications primarily in Ruby and Javascript, with emphasis placed on self led learning<br>
+Collaborated in Agile development teams with a focus on pair programming. Led the Makers Final Project effectively adapting my behavioral and communication approach. <br>
+Learnt new language in very short timeframes, maintaining SOLID principles.<br>
 Languages, Framework, Library, DBMS please see [Tech Skills](#techskills) 
-
 
 **[Step Function](https://makers.tech/), London (UK)** - (December 2020)<br>
 **Data Analysis Intensive Course**<br>
@@ -82,24 +83,31 @@ Actuarial and Financial Mathematical Methods, Business administration I & II, Ec
 
 **[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak, London (UK)** - (September 2019 to October 2020)<br>
 **Collection Specialist EMEA**<br>
-Performing analysis on ageing reports and analyzing the collection of outstanding credit to minimize profit loss; performing Bank Reconciliation on a monthly basis to ensure a correct cash management of AR side of the company.
+Aptitude to analyze ageing reports and manage front-end activities demonstrating project planning, organization, and time management skills.<br>
+Analyzed the collection of outstanding credit to minimize profit loss.<br>
+Led the Bank Reconciliation activity on a monthly basis to ensure a correct cash management of AR side of the company and to check for errors and inaccuracies.<br>
+
 
 **[Booking.com B.V.](https://www.booking.com/), Amsterdam (NLD)** - (May 2018 to November 2018)<br>
 **Credit Controller**<br>
-Managing a portfolio of 20k accounts and redesigning the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
+Developed strong analytical skills managing a Portfolio of 20k accounts.<br>
+Redesigned the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
 
 **[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/), The Hague (NLD)** - (November 2017 to April 2018)<br>
 **Budget & Finance Analyst Trainee**<br>
-Financial planning and control of the Inspectorate Division Budget and responsible for reviewing and analyzing the cash outflows of the Inspectorate Division. Compilation of the monthly accounting reports for the Finance Director, which are consolidated in the organization’s cash flow statement.
+Involved in the financial planning and control of the Inspectorate Division Budget.<br>
+Analyzed the cash outflows of the Inspectorate Division. <br>
+Prepared monthly accounting reports for the Finance Director, consolidated in the organization’s cash flow statement.
 
 **[Anima SGR](https://www.animasgr.it/EN/Pages/default.aspx), Milan (ITA)** -  (December 2016 to June 2017)<br>
 **Marketing & CRM Asset Management Analyst**  <br>
-Performing financial and market analysis and analyzing the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.
+Performed financial and market analysis and analyzed the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.<br>
+Developed strong knowledge and interest in financial markets and Asset Management. 
 
 **[Accenture](https://www.accenture.com/), Milan (ITA)** - (February 2016 to May 2016)<br>
 **Capital Markets - Wealth & Asset Management Intern** <br>
-Definition and the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.
-
+Involved in the Project Management team in the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.<br>
+Learned projects track progress systems and performance measurements.
 ***
 
 
