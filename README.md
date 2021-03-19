@@ -1,24 +1,40 @@
 ## Lisa Bardelli
 ***
-[Skills](#skills) | [Tech Stack](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Internship/Traineeship](#Internship/Traineeship) |[Interests](#interests) |
+[Skills](#skills) | [Tech Skills](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
 ## About me
 
-After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack SOftware Developer.
+<!-- After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack SOftware Developer. -->
+
+I am a dedicated and passionate Full-Stack Developer, recent graduate of [Makers Academy](https://makers.tech/), with previous experience in Finance. 
+I am motivated to join an innovative company as a Full-Stack SOftware Developer where I can use my passion, problem solving and tech skills to solve complex problems and write clean, tested and reusable code.
+
 
 ***
 ## <a name="skills">Skills</a>
-#### Roll-up-your-sleeves Attitude
 
-In the last 3 years, I had the opportunity to change countries three times and consequently leave the job I was doing at the moment while I was beginning my work-life. Despite this, I have always rolled up my sleeves trying to understand the job market dynamics of a specif country and be able to found a new job in well-known company, such as [Booking.com B.V.](https://www.booking.com/) and [OpenTable - Kayak](https://www.opentable.co.uk/). That's why getting error messages and debug code do not discourage me, at all.
+#### Adaptable and Self-Starter
 
-#### Initiative
+- Despite changing countries several times in the last years, I have always been able to work in big-brand companies, such as [Booking.com B.V.](https://www.booking.com/) and [OpenTable - Kayak](https://www.opentable.co.uk/). 
 
-During the Covid-19 pandemic, I left my permanent job in a international company to follow my passion and start a new career. I must admit that, while I was taking this life-changing decision, I had to go through a winding path because there are several factors you need to take into consideration such as going through uncertain times, constantly dealing with the question: "What is coming next?", budgeting the unemployment period and being open to the unexpected; however I realized that this was the challenge that I was ready to face and I took one big step in the right direction, because I am fully confident that this is what I want for my career.
+- I left my permanent job in a international company to follow my passion about coding and start a new career as a Software Developer. 
 
-#### Able to understand stakeholders' needs and expectations
+#### Problem solver & Fast learner
 
-Having to deal with stakeholders in the hospitaly industry brought me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations. I have been able to learn how to speak the stakeholder's language and avoid miscommunication. Then, this customer-centricity skillset helps me quickly understand the business requirements and translate them into clean, tested and reusable code.
+- While working at [OpenTable - Kayak](https://www.opentable.co.uk/), I have requested to be involved in the Bank reconciliation; in less than two months I was effectively in charged of it for the EMEA markets.
+
+- While attending Makers, I successfully build muiltple featured wed applications, in a language I was practicing for a very short timeframes.
+
+- During Makers, I furthered my problem solving by systematically breaking the problem down into small tasks and prioriting those. This particularly applies to my Makers Final project, where my team and built an app with multiple features from scracth within two weeks.
+
+#### Excellent communicator with Stakeholder Management and Team working skills
+
+- Working for customer-centric approach enabled by technology companies helps me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations and avoid miscommunication. 
+
+- During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectly way of communcating and 
+and capacity to work collaboratively with others.
+
+- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This bring to avoid any potential conflict ensuring that an optimal working environment is maintained.
 
 ***
 ## <a name="techskills">Tech Skills</a>
@@ -39,9 +55,9 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 | ------------------------------| ----------------------------------------------------- | ----------------- |
 | **[Recipy](https://github.com/lisabardelli/Recipy.git)** | A web app where users can look for recipes, filter by ingredients and listen to music through integrated Spotify Playlists| MERN, Javascript, React, Redux, Cypress, Jasmine, API, Web Scraping |
 | **[Acebook](https://github.com/lisabardelli/acebook-on-the-rails.git)** | A social media platform where users can post messages, delete a post or like it | Javascript, Ruby on Rails, React, PostgreSQL |
-| **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec, TDD |
+| **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec|
 | **[Notes App](https://github.com/lisabardelli/Notes-app.git)** | Front-end app where users can make notes | Javascript |
-| **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news summary single web page app built in JavaScript | Javascript, API, TDD |
+| **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news summary single web page app built in JavaScript | Javascript, API |
 
 ***
 ## <a name="skills">Education</a>
@@ -81,16 +97,13 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 **Collection Specialist EMEA**<br>
 - Aptitude to analyze ageing reports and manage front-end activities demonstrating project planning, organization, and time management skills.<br>
 - Analyzed the collection of outstanding credit to minimize profit loss.<br>
-- Led the Bank Reconciliation activity on a monthly basis to ensure a correct cash management of AR side of the company and to check for errors and inaccuracies.<br>
+- Led the Bank Reconciliation activity on a monthly basis to ensure a correct cash management of AR side of the company and to check for errors and inaccuracies, developing attention to details skills.<br>
 
 
 #### **[Booking.com B.V.](https://www.booking.com/), Amsterdam (NLD)** - (May 2018 to Nov 2018)<br>
 **Credit Controller**<br>
 - Developed strong analytical skills managing a Portfolio of 20k accounts.<br>
 - Redesigned the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
-
-***
-## <a name="Internship/Traineeship">Internship/Traineeship</a>
 
 #### **[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/), The Hague (NLD)** - (Nov 2017 to April 2018)<br>
 **Budget & Finance Analyst Trainee**<br>
