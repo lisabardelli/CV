@@ -7,7 +7,7 @@
 <!-- After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack SOftware Developer. -->
 
 I am a dedicated and passionate Full-Stack Developer, recent graduate of [Makers Academy](https://makers.tech/), with previous experience in Finance. 
-I am motivated to join an innovative company as a Full-Stack SOftware Developer where I can use my passion, problem solving and tech skills to solve complex problems and write clean, tested and reusable code.
+I am motivated to join an innovative company where I can use my passion, problem solving and tech skills to solve complex problems and write clean, tested and reusable code.
 
 
 ***
