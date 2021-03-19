@@ -1,9 +1,9 @@
 <div align="center">
-## Lisa Bardelli
+# Lisa Bardelli #
 bardelli.lisa@gmail.com
 ***
 [Skills](#skills) | [Tech Skills](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-
+#
 </div>
 ## About me
 
