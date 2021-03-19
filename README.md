@@ -23,7 +23,7 @@ I am motivated to join an innovative company as a Full-Stack SOftware Developer 
 
 - While working at [OpenTable - Kayak](https://www.opentable.co.uk/), I have requested to be involved in the Bank reconciliation; in less than two months I was effectively in charged of it for the EMEA markets.
 
-- While attending Makers, I successfully build muiltple featured wed applications, in a language I was practicing for a very short timeframes.
+- While attending Makers, I successfully build multiple featured web applications, in a language I was practicing for a very short time frames.
 
 - During Makers, I furthered my problem solving by systematically breaking the problem down into small tasks and prioriting those. This particularly applies to my Makers Final project, where my team and built an app with multiple features from scracth within two weeks.
 
@@ -31,10 +31,9 @@ I am motivated to join an innovative company as a Full-Stack SOftware Developer 
 
 - Working for customer-centric approach enabled by technology companies helps me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations and avoid miscommunication. 
 
-- During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectly way of communcating and 
-and capacity to work collaboratively with others.
+- During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectively way of communicating and capacity to work collaboratively with others
 
-- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This bring to avoid any potential conflict ensuring that an optimal working environment is maintained.
+- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This helped avoid any potential conflict ensuring that an optimal working environment is maintained.
 
 ***
 ## <a name="techskills">Tech Skills</a>
