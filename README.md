@@ -1,6 +1,6 @@
 ## Lisa Bardelli
 ***
-[Skills](#skills) | [Tech Stack](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+[Skills](#skills) | [Tech Stack](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Internship/Traineeship](#Internship/Traineeship) |[Interests](#interests) |
 
 ## About me
 
@@ -88,6 +88,9 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 #### **Credit Controller**<br>
 - Developed strong analytical skills managing a Portfolio of 20k accounts.<br>
 - Redesigned the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
+
+***
+## <a name="Internship/Traineeship">Internship/Traineeship</a>
 
 ### **[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/), The Hague (NLD)** - (November 2017 to April 2018)<br>
 #### **Budget & Finance Analyst Trainee**<br>
