@@ -47,7 +47,7 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ## <a name="skills">Education</a>
 
 #### **[Makers Academy](https://makers.tech/), London (UK)** - (November 2020 to February 2021)<br>
-##### **Highly Selective Intensive Coding Bootcamp**<br>
+**Highly Selective Intensive Coding Bootcamp**<br>
 - Independent learner and problem-solver<br>
 - TDD, OOP, MVC, DDD, REST API<br>
 - Learned new coding concepts and new language in very short timeframes, maintaining SOLID principles.<br>
@@ -58,18 +58,18 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 - Languages, Framework, Library, DBMS please see [Tech Skills](#techskills) 
 
 #### **[Step Function](https://makers.tech/), London (UK)** - (December 2020)<br>
-##### **Data Analysis Intensive Course**<br>
+**Data Analysis Intensive Course**<br>
 - Python (pandas and NumPy)<br>
 - SQL (MySQL)<br>
 - Tableau Software<br>
 
 #### **[Catholic University of the Sacred Heart](https://www.ucsc.it/), Milan (ITA)** - (September 2014 to September 2016)<br>
-##### **Business Management (MSc)**<br>
+**Business Management (MSc)**<br>
 - Risk Management, Private Banking, Corporate Finance II & III, Derivatives, Corporate Strategy<br>
 (1st Class cum laude)<br>
 
 #### **[University of Florence](https://www.unifi.it/changelang-eng.html), Florence (ITA)** - (September 2009 to July 2013)<br>
-##### **Business & Economics (BSc)**<br>
+**Business & Economics (BSc)**<br>
 - Actuarial and Financial Mathematical Methods, Business administration I & II, Economics and Management, Economic statistics<br>
 (2:1)<br>
 
@@ -78,14 +78,14 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ## <a name="experience">Experience</a>
 
 #### **[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak, London (UK)** - (September 2019 to October 2020)<br>
-##### **Collection Specialist EMEA**<br>
+**Collection Specialist EMEA**<br>
 - Aptitude to analyze ageing reports and manage front-end activities demonstrating project planning, organization, and time management skills.<br>
 - Analyzed the collection of outstanding credit to minimize profit loss.<br>
 - Led the Bank Reconciliation activity on a monthly basis to ensure a correct cash management of AR side of the company and to check for errors and inaccuracies.<br>
 
 
 #### **[Booking.com B.V.](https://www.booking.com/), Amsterdam (NLD)** - (May 2018 to November 2018)<br>
-##### **Credit Controller**<br>
+**Credit Controller**<br>
 - Developed strong analytical skills managing a Portfolio of 20k accounts.<br>
 - Redesigned the end-to-end credit management process through the adoption of new digital technologies and the Agile methodology that contributed to improve the efficiency of the payment process.
 
@@ -93,18 +93,18 @@ Having to deal with stakeholders in the hospitaly industry brought me to develop
 ## <a name="Internship/Traineeship">Internship/Traineeship</a>
 
 #### **[Organisation for the Prohibition of Chemical Weapons](https://www.opcw.org/), The Hague (NLD)** - (November 2017 to April 2018)<br>
-##### **Budget & Finance Analyst Trainee**<br>
+**Budget & Finance Analyst Trainee**<br>
 - Involved in the financial planning and control of the Inspectorate Division Budget.<br>
 - Analyzed the cash outflows of the Inspectorate Division. <br>
 - Prepared monthly accounting reports for the Finance Director, consolidated in the organization’s cash flow statement.
 
 #### **[Anima SGR](https://www.animasgr.it/EN/Pages/default.aspx), Milan (ITA)** -  (December 2016 to June 2017)<br>
-##### **Marketing & CRM Asset Management Analyst**  <br>
+**Marketing & CRM Asset Management Analyst**  <br>
 - Performed financial and market analysis and analyzed the collected data in order to create detailed periodical reports, highlighting my findings to be used in the marketing decision making process.<br>
 - Developed strong knowledge and interest in financial markets and Asset Management. 
 
 #### **[Accenture](https://www.accenture.com/), Milan (ITA)** - (February 2016 to May 2016)<br>
-##### **Capital Markets - Wealth & Asset Management Intern** <br>
+**Capital Markets - Wealth & Asset Management Intern** <br>
 - Involved in the Project Management team in the execution of the IT strategy of a top-tier Italian retail bank, through the migration of a critical IT reporting system towards an international custodian bank in order to cut the costs by up to 10% of the IT yearly budget.<br>
 - Learned projects track progress systems and performance measurements.<br>
 - Preparation and participation in client meetings
