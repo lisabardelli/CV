@@ -1,10 +1,7 @@
-<div align="center">
-# Lisa Bardelli #
-bardelli.lisa@gmail.com
+## Lisa Bardelli
 ***
 [Skills](#skills) | [Tech Skills](#techskills) |[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-#
-</div>
+
 ## About me
 
 <!-- After attending BSc and MSc in Business and Finance and relevant work experiences in finance roles in Italy, The Netherlands and UK, I have approached software development to expand my knowledge and I have figured it out that I have a true passion for it. I decided that I wanted to become a developer. To start my new career I have choosen at [Makers Academy](https://makers.tech/), a highly selective intensive development bootcamp. I have recently graduated at Makers and I look forward to joining an innovative company as a Full-Stack SOftware Developer. -->
@@ -36,7 +33,7 @@ I am motivated to join an innovative company as a Full-Stack SOftware Developer 
 
 - During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectively way of communicating and capacity to work collaboratively with others
 
-- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This helped avoid any potential conflict ensuring that an optimal working environment is maintained.
+- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This helped avoiding any potential conflict ensuring that an optimal working environment is maintained.
 
 ***
 ## <a name="techskills">Tech Skills</a>
