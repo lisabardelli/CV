@@ -25,7 +25,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 
 - While attending Makers, I successfully build multiple featured web applications, in a language I was practicing for a very short time frames.
 
-- During Makers, I furthered my problem solving by systematically breaking the problem down into small tasks and prioriting those. This particularly applies to my Makers Final project, where my team and built an app with multiple features from scracth within two weeks.
+- During Makers, I furthered my problem solving skills by systematically breaking the problem down into small tasks and prioriting those. This particularly applies to my Makers Final project, where my team and built an app with multiple features from scracth within two weeks.
 
 #### Excellent communicator with Stakeholder Management and Team working skills
 
