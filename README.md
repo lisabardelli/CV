@@ -56,7 +56,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 | **[Acebook](https://github.com/lisabardelli/acebook-on-the-rails.git)** | A social media platform where users can post messages, delete a post or like it | Javascript, Ruby on Rails, React, PostgreSQL |
 | **[MakersBnB](https://github.com/lisabardelli/makersbnb_challenge.git)** | An AirBnB clone where users can see listed rooms | Ruby, Sinatra, RSpec|
 | **[Notes App](https://github.com/lisabardelli/Notes-app.git)** | Front-end app where users can make notes | Javascript |
-| **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news summary single web page app built in JavaScript | Javascript, API |
+| **[News Summary App](https://github.com/lisabardelli/news-summary-challenge.git)** |A news single web page app built in JavaScript | Javascript, API |
 
 ***
 ## <a name="skills">Education</a>
