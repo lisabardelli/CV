@@ -29,7 +29,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 
 #### Excellent communicator with Stakeholder Management and Team working skills
 
-- Working for customer-centric approach enabled by technology companies helps me to develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations and avoid miscommunication. 
+- Working for customer-centric approach enabled by technology companies helps me develop good communication skills and the ability to identify and correctly interpret Stakeholders' needs and expectations and avoid miscommunication. 
 
 - During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectively way of communicating and capacity to work collaboratively with others.
 
