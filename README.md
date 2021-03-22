@@ -67,7 +67,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 - TDD, OOP, MVC, DDD, REST API<br>
 - Learned new coding concepts and new language in very short timeframes, maintaining SOLID principles.<br>
 - Furthered my problem solving and attention to details skill to improve my debugging process. <br>
-- Builded 10+ web applications primarily in Ruby and Javascript, with emphasis placed on self led learning.<br>
+- Built 10+ web applications primarily in Ruby and Javascript, with emphasis placed on self led learning.<br>
 - Collaborated in Agile development teams with a focus on pair programming and reviewing others’ code. <br>
 - Led the Makers Final Project demonstrating teamwork and communication skills. 
 - Languages, Framework, Library, DBMS please see [Tech Skills](#techskills) 
