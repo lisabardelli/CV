@@ -92,7 +92,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 ***
 ## <a name="experience">Experience</a>
 
-#### **[OpenTable - Kayak](https://www.opentable.co.uk/) Kayak, London (UK)** - (Sept 2019 to Oct 2020)<br>
+#### **[OpenTable - Kayak](https://www.opentable.co.uk/), London (UK)** - (Sept 2019 to Oct 2020)<br>
 **Collection Specialist EMEA**<br>
 - Aptitude to analyze ageing reports and manage front-end activities demonstrating project planning, organization, and time management skills.<br>
 - Analyzed the collection of outstanding credits to minimize profit loss.<br>
