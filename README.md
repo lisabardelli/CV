@@ -33,7 +33,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 
 - During Makers, I frequently paired programming with multiple individuals, demonstrating a clearly and effectively way of communicating and capacity to work collaboratively with others.
 
-- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This helped avoiding any potential conflict ensuring that an optimal working environment is maintained.
+- I led Makers Final Project demonstrating teamwork and communication skills. I have adapted myself to take into the account the feelings of others. This helped avoiding any potential conflict ensuring that an optimal working environment was maintained.
 
 ***
 ## <a name="techskills">Tech Skills</a>
