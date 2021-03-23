@@ -4,8 +4,6 @@
 
 ## About me
 
-<!--  -->
-
 I am a dedicated and passionate Full-Stack Developer, recent graduate of [Makers Academy](https://makers.tech/), with previous experience in Finance. 
 I am motivated to join an innovative company where I can use my passion, problem solving and tech skills to solve complex problems and write clean, tested and reusable code.
 
@@ -72,7 +70,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 - Led the Makers Final Project demonstrating teamwork and communication skills. 
 - Languages, Framework, Library, DBMS please see [Tech Skills](#techskills) 
 
-#### **[Step Function](https://makers.tech/), London (UK)** - (Dec 2020)<br>
+#### **[Step Function](https://makers.tech/), London (UK)** - (Dec 2019)<br>
 **Data Analysis Intensive Course**<br>
 - Python (pandas and NumPy)<br>
 - SQL (MySQL)<br>
