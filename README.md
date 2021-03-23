@@ -76,7 +76,7 @@ I am motivated to join an innovative company where I can use my passion, problem
 - SQL (MySQL)<br>
 - Tableau Software<br>
 
-#### **[Catholic University of the Sacred Heart](https://www.ucsc.it/), Milan (ITA)** - (Sept2014 to Sept 2016)<br>
+#### **[Catholic University of the Sacred Heart](https://www.ucsc.it/), Milan (ITA)** - (Sept 2014 to Sept 2016)<br>
 **Business Management (MSc)**<br>
 - Risk Management, Private Banking, Corporate Finance II & III, Derivatives, Corporate Strategy<br>
 (1st Class cum laude)<br>
